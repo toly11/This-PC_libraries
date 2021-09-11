@@ -1,0 +1,51 @@
+[
+  {
+    "id": 0,
+    "name": "3D objects",
+    "reg": "{0DB7E03F-FC29-4DC6-9020-FF41B59E513A}",
+    "height": 30,
+    "icon": -187
+  },
+  {
+    "id": 1,
+    "name": "Downloads",
+    "reg": "{088e3905-0323-4b02-9826-5d99428e115f}",
+    "height": 50,
+    "icon": -175
+  },
+  {
+    "id": 2,
+    "name": "Pictures",
+    "reg": "{24ad3ad4-a569-4530-98e1-ab02f9417aa8}",
+    "height": 70,
+    "icon": -108
+  },
+  {
+    "id": 3,
+    "name": "Music",
+    "reg": "{3dfdf296-dbec-4fb4-81d1-6a3438bcf4de}",
+    "height": 90,
+    "icon": -103
+  },
+  {
+    "id": 4,
+    "name": "Desktop",
+    "reg": "{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}",
+    "height": 110,
+    "icon": -174
+  },
+  {
+    "id": 5,
+    "name": "Documents",
+    "reg": "{d3162b92-9365-467a-956b-92703aca08af}",
+    "height": 130,
+    "icon": -107
+  },
+  {
+    "id": 6,
+    "name": "Videos",
+    "reg": "{f86fa3ab-70d2-4fc7-9c99-fcbf05467f3a}",
+    "height": 150,
+    "icon": -178
+  }
+]
